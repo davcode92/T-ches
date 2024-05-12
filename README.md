@@ -1,13 +1,12 @@
-![cover](./todo.jpg)
-<center> View Demo <a href="https://react-todo-ap.netlify.app/" target="_blank">ToDo React App</a> </center>
+
 
 ## 🦉 Main information
 
-ToDo app is an app that allows users to add, edit, and delete tasks they want to work on. These actions touch upon the four aspects of a CRUD (Create, Read, Update, and Delete) application.
+T-ches app is an app that allows users to add, edit, and delete tasks they want to work on. These actions touch upon the four aspects of a CRUD (Create, Read, Update, and Delete) application.
 
 This application integrate React useState and useEffect Hooks. React Hooks allow for functional components to have a state and use lifecycle methods, allowing you to avoid using class components and have more modular and readable code.
 
-ToDo app is an excellent app to practice hooks, state, style and data manipulation.
+T-ches app is an excellent app to practice hooks, state, style and data manipulation.
 
 Here you can find the sourse code with all the necessary and useful comments.
 
