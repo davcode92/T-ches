@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/T-ches/static/css/main.a6e6353b.css",
+    "main.js": "/T-ches/static/js/main.8e80e300.js",
+    "static/media/todo-image.png": "/T-ches/static/media/todo-image.ffb878c8635bddbca0a3.png",
+    "index.html": "/T-ches/index.html",
+    "main.a6e6353b.css.map": "/T-ches/static/css/main.a6e6353b.css.map",
+    "main.8e80e300.js.map": "/T-ches/static/js/main.8e80e300.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6e6353b.css",
+    "static/js/main.8e80e300.js"
+  ]
+}
