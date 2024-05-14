@@ -13,9 +13,9 @@ Variables
 
 :root {
 /* dark shades of primary color*/
---main-yellow: pink;
---dark-yellow: pink;
---main-red: pink;
+--main-yellow: bleu;
+--dark-yellow: bleu;
+--main-red: bleu;
 --dark-red: rgb(125, 1, 1);
 --clr-black: white;
 --clr-white: #fff;
